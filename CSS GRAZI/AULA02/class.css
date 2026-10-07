@@ -1,0 +1,39 @@
+.grazi {
+    color: hotpink;
+    text-align: right;
+    font-style: italic;
+
+}
+
+.GraZi {
+
+    color: indianred;
+    text-align: center;
+    
+}
+li.center {
+    text-align: center;
+}
+
+section {
+    color: orangered;
+}
+
+#Grazi {
+     color: chocolate;  
+     /* id, o principal das cores. */
+}
+
+
+h1, h2 {
+
+    color: rgb(96, 74, 192);
+}
+
+
+
+.Grazi02 {
+
+    color: rgb(61, 223, 96);
+}
+

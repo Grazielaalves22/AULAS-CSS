@@ -1,0 +1,45 @@
+.container {
+    height: 100vh;
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(6,1fr);
+
+    grid-template-areas: 
+    "A1 A1 A1 A1 A1 A1"
+    "A2 A2 A3 A3 A3 A3"
+    "A2 A2 A3 A3 A3 A3"
+    "A4 A4 A4 A4 A5 A5"
+    "A4 A4 A4 A4 A5 A5"
+    "A6 A6 A6 A6 A6 A6";
+}
+
+.box1 {
+    background-color: brown;
+    grid-area: A1;
+}
+
+.box2 {
+    background-color: rgb(74, 46, 197);
+    grid-area: A2;
+}
+
+.box3 {
+    background-color: rgb(70, 173, 57);
+    grid-area: A3;
+}
+
+.box4 {
+    background-color: rgb(175, 165, 26);
+    grid-area: A4;
+}
+
+.box5 {
+    background-color: rgb(172, 50, 145);
+    grid-area: A5;
+}
+
+.box6 {
+    background-color: rgb(42, 147, 165);
+    grid-area: A6;
+}

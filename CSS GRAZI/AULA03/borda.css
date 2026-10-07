@@ -1,0 +1,24 @@
+.box01 {
+    
+    width: 250px;
+    height: 250px;
+    background-color: mediumpurple;
+    border: 6px double rgb(146, 19, 119);
+     box-shadow: 5px 5px 5px rgb(44, 150, 192) ;
+     margin: 10px;
+}
+
+.box02 {
+    margin: 15px;
+    width: 250px;
+    height: 250px;
+    background-color: rgb(209, 165, 133);
+    border-top: 5px double rgb(211, 135, 36);
+    border-right: 10px dashed black ;
+    border-bottom: 5px solid rgb(17, 17, 122) ;
+    border-left: 10px dotted rgb(190, 36, 87);
+
+    border-radius: 10px;
+
+
+}

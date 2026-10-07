@@ -1,0 +1,31 @@
+:root {
+    /* nomeVariavel - camelCase 
+    ex: primeiroNomePessoa*/
+
+    /* nome-variavel - kebab_case
+    ex:primeiro-nome-pessoa */
+
+    /* nome-variavel - snake_case
+    ex:primeiro_nome_pessoa*/
+
+    /* nome-variavel - pascalCase 
+    ex:PrimeiroNomePessoa*/
+
+    /* nome-variavel - sceaming_snake_case 
+    ex:PRIMEIRO-NOME-PESSOA*/
+
+    /* nome-variavel - screaming_kebab_case 
+    ex:PRIMEIRO_NOME_PESSOA*/
+
+    --cor-primaria: rgb(39, 87, 218);
+    --cor-texto: rgb(235, 92, 199);
+    --font-padrao: 20px;
+}
+h1 {
+    color: var(--cor-primaria);
+}
+p {
+    color: var(--cor-texto);
+    background-color: var(--cor-primaria);
+    font-size: var(--font-padrao);
+}

@@ -1,0 +1,13 @@
+.primeiro::after {
+    content: " - Turma 01";
+}
+
+.primeiro::before {
+    content: "Prof - ";
+}
+.segundo::first-letter {
+    font-size:  20px;
+    color: rgb(165, 42, 118);
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

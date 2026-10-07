@@ -1,0 +1,24 @@
+input:focus {
+    background-color: rgb(223, 201, 173);
+    color: cadetblue;
+}
+a:visited {
+    color: rgb(32, 173, 96);
+}
+
+div{
+     background-color: crimson;
+     color: rgb(8, 11, 148);
+     height: 200px;
+     width: 200px;
+     padding: 25%;
+     box-sizing: border-box;
+}
+
+.box:hover {
+    background-color: rgb(44, 180, 101);
+     color: rgb(214, 52, 201);
+     height: 200px;
+     width: 200px;
+     border-radius: 30px;
+}

@@ -1,0 +1,45 @@
+
+:root {
+
+    --cor-primaria: rgb(224, 126, 172) ;
+    --cor-texto: rgb(65, 18, 53);
+    --font-padrao: 30px;
+    --cor-fundo: rgb(180, 168, 185);
+}
+
+nav {
+    height: 10vh;
+    background-color: rgb(209, 156, 183);
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(196, 18, 18);
+    
+}
+
+h1 {
+    color: var(--cor-texto);
+    background-color: var(--cor-primaria);
+    font-size: var(--font-padrao);
+}
+
+li {
+    background-color: var(--cor-primaria);
+    display: inline-block;
+}
+ 
+p {
+    background-color: var(--cor-texto);
+    color: burlywood;
+}
+
+body {
+    background-color: var(--cor-fundo);
+}
+ul {
+    list-style: none;
+}

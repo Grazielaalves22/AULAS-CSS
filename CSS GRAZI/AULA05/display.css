@@ -1,0 +1,22 @@
+div {
+    height: 200px;
+    width: 200px;
+    border: 2px solid rgb(36, 17, 141);
+    margin: 10px;
+}
+
+body {
+    background-color: rgb(190, 237, 255);
+}
+
+.box1 {
+    background-color: rgb(126, 172, 224);
+    display: inline-block;
+}
+
+.box2 {
+    background-color: rgb(98, 138, 212);
+    display: inline-block;
+}
+
+

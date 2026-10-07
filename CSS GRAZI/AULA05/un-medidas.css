@@ -1,0 +1,55 @@
+* {
+    margin: 10px;
+    font-size: 62.5%;
+}
+
+.box1 {
+    font-size: 3.0rem;
+
+}
+
+.box2 {
+    font-size: 1.2rem;
+}
+
+ol {
+    font-size: 2em;
+}
+
+li {
+    font-size: 2em;
+}
+
+article {
+    padding: 80px;
+    background-color: rgb(164, 101, 184);
+    height: 50vh;
+    width: 50vw;
+}
+
+section {
+     background-color: rgb(102, 167, 221);
+     height: 100vh;
+     
+}
+
+p {
+    font-size:  2em;
+}
+
+.box3 {
+    margin: 0;
+    padding: 0;
+    width: 600px;
+    height: 300px ;
+    background-color: rgb(243, 54, 82);
+}
+
+.box4 {
+    margin: 0;
+    padding: 0;
+    height: 300px;
+    width: 50%;
+    background-color: rgb(212, 130, 72);
+}
+
